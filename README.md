@@ -1,5 +1,5 @@
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f497a78-08cb-482f-b8b5-6d454e5776ba/deploy-status)](https://app.netlify.com/sites/delicate-nasturtium-6bb61e/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/34dada6e-9a36-4f39-8931-54d72e294db5/deploy-status)](https://app.netlify.com/sites/my-vanilla-js-slider/deploys)
 <div align="center" dir="auto">
   <a href="https://anouar4070.github.io/slider/">
  <strong> GO TO OUR SLIDER!</strong> 🚀

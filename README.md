@@ -4,7 +4,7 @@
   <a href="https://my-vanilla-js-slider.netlify.app/">
  <strong> GO TO OUR SLIDER!</strong> 🚀
   </a>
-  <div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto">Startup Website</h3></div>
+  <div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto">My slider</h3></div>
   <p align="center" dir="auto">
     A Vanilla basic JavaScript project using Modules
     <br>
